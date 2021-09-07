@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="topography">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/topography.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
